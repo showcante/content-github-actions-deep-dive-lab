@@ -15,10 +15,10 @@ const IndexPage = () => {
       <main className='main'>
         
 
-          <h1 className='title'>
+          <h4 className='title'>
             Welcome to{' '}
-            <code className='title_code'>Cloud Coffee</code>
-          </h1>
+            <code className='title_code'>Launch Announced!!!!!!!!!!!!!!!</code>
+          </h4>
       
 
           <p className='description'>
